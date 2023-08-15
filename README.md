@@ -1,2 +1,3 @@
-# ddos
-ddos Attack jaringan X Website (Cyber ddos attack 2023)
+```
+Warning -Skrip ini adalah buat untuk pendidikan yang baik. Author tidak -bertanggung jawab atas masalah atau -penyebab pada script ini!!
+```
